@@ -1,5 +1,4 @@
-// given the html select the first paragraph int the list 4 different ways and populate to the console.
-// alert("hello this is connected");
+// given the html select the first paragraph in the list 4 different ways and populate it to the console.
 
 //  #1 select element by the getElementById method
 var slct = document.getElementById("initial");
